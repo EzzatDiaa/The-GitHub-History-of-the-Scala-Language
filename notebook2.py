@@ -1,12 +1,7 @@
-
-# coding: utf-8
-
 # ## 1. Scala's real-world project repository data
-# In[39]:
 
 # Importing pandas
 import pandas as pd
-# ... YOUR CODE FOR TASK 1 ...
 
 # Loading in the data
 pulls_one = pd.read_csv('datasets/pulls_2011-2013.csv')
